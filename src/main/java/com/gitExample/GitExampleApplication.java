@@ -8,6 +8,7 @@ public class GitExampleApplication {
 
 	public static void main(String[] args) {
 		int x=100;
+		int y=20;
 		SpringApplication.run(GitExampleApplication.class, args);
 	}
 
