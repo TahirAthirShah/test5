@@ -11,6 +11,7 @@ public class GitExampleApplication {
 
 
                 int a;
+char c ;
 		int y=20;
 
 		SpringApplication.run(GitExampleApplication.class, args);
