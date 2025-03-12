@@ -11,6 +11,8 @@ public class GitExampleApplication {
 
                    int c;
                    int e;
+int s=19990;
+
 
 
 		int y=20;
