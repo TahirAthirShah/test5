@@ -12,9 +12,13 @@ public class GitExampleApplication {
                    int c;
                    int e;
 int s=19990;
-		String t;
+		String z;
+		int abc;
+		
 
 int v;
+		char c;
+		
 
 
 
