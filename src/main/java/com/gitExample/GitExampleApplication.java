@@ -7,19 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitExampleApplication {
 
 	public static void main(String[] args) {
-		int x=100;
-
-                   int c;
-char c;
-char z;
-                   int e;
-int s=19990;
-		String t;
-
-int v;
 
 
 
+                int a;
 		int y=20;
 
 		SpringApplication.run(GitExampleApplication.class, args);
