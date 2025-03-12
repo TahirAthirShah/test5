@@ -23,11 +23,7 @@ String z;
 		int h;
 		double d=20;
 		shdgf   
-			fohugf
-			jgearg
-			gjearjg
-			rlkgnerg
-			fwrgffrg
+		
 
 		SpringApplication.run(GitExampleApplication.class, args);
 	}
