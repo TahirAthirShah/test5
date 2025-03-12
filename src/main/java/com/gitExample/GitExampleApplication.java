@@ -10,15 +10,13 @@ public class GitExampleApplication {
 		int x=100;
 
                    int c;
+char c;
+char z;
                    int e;
 int s=19990;
-		String z;
-		int abc;
-		
+		String t;
 
 int v;
-		char c;
-		
 
 
 
