@@ -7,13 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitExampleApplication {
 
 	public static void main(String[] args) {
-
-
-
-                int a;
-char z;
-		int y=20;
-
+		int x;
+		int h;
+		double s=20;
 		SpringApplication.run(GitExampleApplication.class, args);
 	}
 
